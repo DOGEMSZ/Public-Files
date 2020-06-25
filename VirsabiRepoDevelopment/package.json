@@ -1,11 +1,11 @@
 {
   "name": "com.virsabi",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "displayName": "Virsabi",
   "description": "Internal scripts, shaders, and tools for development.",
   "unity": "2018.3",
   "dependencies": {
-    "com.mybox": "https://github.com/Deadcows/MyBox.git#master"
+    "com.mybox": "https://github.com/Deadcows/MyBox.git"
   },
   "keywords": [
     "attributes",
@@ -52,6 +52,11 @@
       "displayName": "Scene Opener Windows",
       "description": "Needs to be a sample due to writing to .cs file",
       "path": "Samples~/SceneOpenerWindows"
+    },
+    {
+      "displayName": "URP Shader Library",
+      "description": "All kinds of swifty shaders",
+      "path": "Samples~/Shader Library/URP"
     }
   ],
   "type": "library"
