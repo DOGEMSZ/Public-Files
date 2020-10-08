@@ -1,7 +1,7 @@
 {
   "name": "com.virsabi",
-  "version": "1.0.0",
-  "displayName": "Virsabi",
+  "version": "1.0.1",
+  "displayName": "Virsabi.Core",
   "description": "Internal scripts, shaders, and tools for development.",
   "unity": "2018.3",
   "keywords": [
