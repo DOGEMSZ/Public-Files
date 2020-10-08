@@ -1,6 +1,6 @@
 {
   "name": "com.virsabi.ovr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Virsabi OVR Extension",
   "description": "Virsabi OVR Extension. Minimum OVR: 19.X",
   "unity": "2018.3",
