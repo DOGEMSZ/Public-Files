@@ -1,0 +1,18 @@
+{
+  "name": "com.virsabi.ovr",
+  "version": "0.0.1",
+  "displayName": "Virsabi OVR Extension",
+  "description": "Virsabi OVR Extension. Minimum OVR: 19.X",
+  "unity": "2018.3",
+  "keywords": [
+    "attributes",
+    "extensions",
+    "editor tools"
+  ],
+  "author": {
+    "name": "Virsabi",
+    "email": "vr@virsabi.com",
+    "url": "http://virsabi.com/"
+  },
+  "hideInEditor": false
+}
