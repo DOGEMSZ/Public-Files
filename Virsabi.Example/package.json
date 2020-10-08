@@ -1,6 +1,6 @@
 {
   "name": "com.virsabi.mrtk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Virsabi.MRTK",
   "description": "Virsabi MRTK extensions",
   "unity": "2018.3",
