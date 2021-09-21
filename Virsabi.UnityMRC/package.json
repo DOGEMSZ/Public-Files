@@ -1,0 +1,18 @@
+{
+  "name": "com.virsabi.unitymrc",
+  "version": "1.0.2",
+  "displayName": "Virsabi.UnityMRC",
+  "description": "Virsabi UnityMRC extensions",
+  "unity": "2018.3",
+  "keywords": [
+    "attributes",
+    "extensions",
+    "editor tools"
+  ],
+  "author": {
+    "name": "Virsabi",
+    "email": "vr@virsabi.com",
+    "url": "http://virsabi.com/"
+  },
+  "hideInEditor": false
+}
